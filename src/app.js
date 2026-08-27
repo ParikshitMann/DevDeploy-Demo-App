@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>DevDeploy Demo App</title>
+  <title>DevDeploy Demo App v2</title>
 </head>
 <body>
   <h1>DevDeploy Demo App</h1>
